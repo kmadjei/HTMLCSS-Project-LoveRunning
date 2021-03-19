@@ -61,7 +61,7 @@ Click [😈Me👽](https://kmadjei.github.io/HTMLCSS-Project-LoveRunning/) to la
 ---
 
 ### Content
-- - The contents presented in this project were provided by [Code Institute](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/08_responsive_elements/05_responsive_gallery) as this was a walkthrough project.
+- The contents presented in this project were provided by [Code Institute](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/08_responsive_elements/05_responsive_gallery) as this was a walkthrough project.
 
 ### Acknowledgements
 
