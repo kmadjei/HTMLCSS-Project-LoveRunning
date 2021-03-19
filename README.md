@@ -12,7 +12,7 @@ This is my first walkthrough project in which an imagined website (Love Running)
  
 The website was designed for running enthusiasts looking to join in on regular runs happening in the community of _DUBLIN DOCKLANDS & PHOENIX PARK_. 
 
->> As a user of this website I would like to drop in a be able to connect with fellow runners on to keep consistent motivation for living healthily.
+>> As a user of this website I would like to drop in and be able to connect with fellow runners, to keep consistent motivation for living a healthy lifestyle.
 
 
 ### Mockups
