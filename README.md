@@ -1,83 +1,68 @@
-# Your Project's Name
+![CBC logo](https://canadianbusinesscollege.com/wp-content/uploads/2020/09/CBC-New-Logo-Website.png)
+![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-One or two paragraphs providing an overview of your project.
+# HTML / CSS Walkthrough Project - Love Running
+---
+This is my first walkthrough project in which an imagined website (Love Running) is built for a local running community using HTML and CSS. The website is a fully responsive design showcasing the harmonious result between HTML5 and CSS3.
 
-Essentially, this part is your sales pitch.
+👉 [Quick Preview](https://kmadjei.github.io/HTMLCSS-Project-LoveRunning/)
  
 ## UX
+---
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The website was designed for running enthusiasts looking to join in on regular runs happening in the community of _DUBLIN DOCKLANDS & PHOENIX PARK_. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+>> As a user of this website I would like to drop in a be able to connect with fellow runners on to keep consistent motivation for living healthily.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+### Mockups
+- Here are some mock up views of the site:
+<img src="https://github.com/kmadjei/HTMLCSS-Project-LoveRunning/blob/main/assets/img/love-running2.png?raw=true" alt="Mockup-1" width="400px" heigth="300px" margin="5px"> 
+<img src="https://github.com/kmadjei/HTMLCSS-Project-LoveRunning/blob/main/assets/img/love-running3.png?raw=true" alt="Mockup-2" width="400px" heigth="300px"> 
+<img src="https://github.com/kmadjei/HTMLCSS-Project-LoveRunning/blob/main/assets/img/love-running4.png?raw=true" alt="Mockup-3" width="400px" heigth="300px">
 
 ## Features
+---
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The website has 3 different page designs with different objectives.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- The **Home** page - contains highest priority of information such as meetup times and motivational messages.
+- The **Gallery** page - brings a sense of community and inclusion for the users by showing pictures of the runners.
+- The **Signup** page - is where users can sign up for community information and updates .
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-- Another feature idea
+Consistency is maintained througout the website through the header, showing the logo and navigation links, and the footer, including social media links.
 
 ## Technologies Used
+---
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+- [HTML](https://www.w3schools.com/html/default.asp)
+    - _**HTML5**_ elementss were used to lay the foundation of the website
+- [CSS](https://www.w3schools.com/css/default.asp)
+     - _**CSS**_ was used in structuring the aesthetics of the website
 
 ## Testing
+---
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+1. Responsiveness:
+    1. Open the webpage (on Chrome search, anyother search engine will have similar Dev tools)
+    2. Press 'F12' on your keyboad or righclick on the page and click on inspection
+    3. On the responsive atb you can slect different device views to check the responsiness of the website when the view is changed
+    4. The goal is to make sure all the lements are presented in a visually pleasy and organized manner for great User Experience
+    5. Hit ```ctr + shift + c``` inorder to check which element styling to change by hovering on the webpage
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+The project files are in my github repository, being hosted by github pages.
+Click [😈Me👽](https://kmadjei.github.io/HTMLCSS-Project-LoveRunning/) to lauch the site
 
 
 ## Credits
+---
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-### Media
-- The photos used in this site were obtained from ...
+- - The contents presented in this project were provided by [Code Institute](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/08_responsive_elements/05_responsive_gallery) as this was a walkthrough project.
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+- I appreciated the instructional video provided by the Code Institute learning platform to build this project.
