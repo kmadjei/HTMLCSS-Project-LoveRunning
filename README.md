@@ -45,11 +45,11 @@ Consistency is maintained througout the website through the header, showing the 
 ---
 
 1. Responsiveness:
-    1. Open the webpage (on Chrome search, anyother search engine will have similar Dev tools)
+    1. Open the webpage (on Chrome search, any other search engine will have similar Dev tools)
     2. Press 'F12' on your keyboad or righclick on the page and click on inspection
-    3. On the responsive atb you can slect different device views to check the responsiness of the website when the view is changed
-    4. The goal is to make sure all the lements are presented in a visually pleasy and organized manner for great User Experience
-    5. Hit ```ctr + shift + c``` inorder to check which element styling to change by hovering on the webpage
+    3. On the responsive tab you can select different device views to check the responsiness of the website when the view is changed
+    4. The goal is to make sure all the elements are presented in a visually pleasing and organized manner for great User Experience
+    5. By holding down```ctr + shift + c```  on the keyboard and hovering over the website with the mouse you can view the elements to be changed for different device views.
 
 ## Deployment
 
